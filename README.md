@@ -10,3 +10,13 @@ The modification is also compatible with the game's storyline. New objects on th
 ## Performance
 The modification comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
 The modification has been successfully tested with standard game models, but does not guarantee work with others.
+## Screenshots
+### Docks
+| Before | After |
+|--------|-------|
+| ![1](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/docks_before.png?raw=true) | ![2](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/docks_after.png?raw=true) |
+
+### Bridge
+| Before | After |
+|--------|-------|
+| ![1](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/bridge_before.png?raw=true) | ![2](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/bridge_after.png?raw=true) |
