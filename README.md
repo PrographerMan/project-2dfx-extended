@@ -8,5 +8,5 @@ The modification can be used without Project 2DFX. The game will still work, it 
 ### The storyline
 The modification is also compatible with the game's storyline. New objects on the map do not make it difficult to pass.
 ## Performance
-The game comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
+The modification comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
 The modification has been successfully tested with standard game models, but does not guarantee work with others.
