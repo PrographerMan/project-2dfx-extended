@@ -7,6 +7,8 @@
 The modification can be used without Project 2DFX. The game will still work, it will only add new objects to the map.
 ### The storyline
 The modification is also compatible with the game's storyline. New objects on the map do not make it difficult to pass.
+## Current availability
+**[2024.05.22]** Two areas of the map are ready (docks and Haiti). The test version will be available soon.
 ## Performance
 The modification comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
 The modification has been successfully tested with standard game models, but does not guarantee work with others.
