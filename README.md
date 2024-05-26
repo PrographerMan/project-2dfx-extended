@@ -32,3 +32,8 @@ The modification has been successfully tested with standard game models, but doe
 | Before | After |
 |--------|-------|
 | ![1](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/bridge_before.png?raw=true) | ![2](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/bridge_after.png?raw=true) |
+
+### Starfish island
+| Before | After |
+|--------|-------|
+| ![1](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/starfish_before.png?raw=true) | ![2](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/starfish_after.png?raw=true) |
