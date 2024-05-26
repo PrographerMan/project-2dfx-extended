@@ -5,13 +5,23 @@
 ## Compatibility
 ### Other modifications
 The modification can be used without Project 2DFX. The game will still work, it will only add new objects to the map.
+Also, the modification is compatible with others that slightly change the game map.
 ### The storyline
 The modification is also compatible with the game's storyline. New objects on the map do not make it difficult to pass.
+## Installation
+1. Copy `data` mod`s folder in your GTA Vice City folder.
+2. Copy and paste rows from `gta_vc.dat` in your `%your_gta_vice_city_folder%/data/gta_vc.dat`.
 ## Current availability
+**[2024.05.26]** Version 0.4alpha released.
+
 **[2024.05.22]** Two areas of the map are ready (docks and Haiti). The test version will be available soon.
 ## Performance
 The modification comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
 The modification has been successfully tested with standard game models, but does not guarantee work with others.
+## Troubleshooting
+**Problem:** Game crash in loading.
+
+**Solution:** Make sure that you have copied the lines correctly to your `gta_vc.dat` file. Lines with the *IDE* prefix should be inserted after the existing lines and lines with the *IPL* prefix, respectively.
 ## Screenshots
 ### Docks
 | Before | After |
