@@ -1,6 +1,6 @@
 ![project-2dfx-extended-logo](https://github.com/PrographerMan/project-2dfx-extended/blob/main/images/cover.png?raw=true)
 # Introduction
-**Project 2DFX Extended** - Grand Theft Auto game series modification, extends exist [Project 2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX) modification and adds more dynamic objects on map (lampposts, neon e.t.c).
+**Project 2DFX Extended** - is a Grand Theft Auto game series modification which extends the existing [Project 2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX) modification and adds more dynamic objects on map (lampposts, neon e.t.c).
 
 ## Compatibility
 ### Other modifications
@@ -17,7 +17,7 @@ The modification is also compatible with the game's storyline. New objects on th
 **[2024.05.22]** Two areas of the map are ready (docks and Haiti). The test version will be available soon.
 ## Performance
 The modification comes with a "Limit Adjuster" modification that increases the limit on the amount of objects on the map.
-The modification has been successfully tested with standard game models, but does not guarantee work with others.
+The modification has been successfully tested with standard game models, but does not guarantee to work with others.
 ## Troubleshooting
 **Problem:** Game crash in loading.
 
