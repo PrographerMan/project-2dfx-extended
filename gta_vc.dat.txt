@@ -1,0 +1,25 @@
+
+#
+# Copy and paste this in gta_vc.dat before all rows with IDE
+#
+
+# ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended start IDE ~~~~~~~~~~~~~~~~~~~~
+
+IDE DATA\MAPS\2dfxextended_havana\2dfxextended_havana.IDE
+
+# ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended end IDE ~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+#
+# Copy and paste this in gta_vc.dat before all rows with IPL
+#
+
+# ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended start IPL ~~~~~~~~~~~~~~~~~~~~
+
+IPL DATA\MAPS\2dfxextended_havana\2dfxextended_havana.IPL
+IPL DATA\MAPS\2dfxextended_docks\2dfxextended_docks.IPL
+IPL DATA\MAPS\2dfxextended_airport\2dfxextended_airport.IPL
+IPL DATA\MAPS\2dfxextended_starfish\2dfxextended_starfish.IPL
+
+# ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended end IPL ~~~~~~~~~~~~~~~~~~~~
