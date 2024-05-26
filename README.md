@@ -9,7 +9,7 @@ Also, the modification is compatible with others that slightly change the game m
 ### The storyline
 The modification is also compatible with the game's storyline. New objects on the map do not make it difficult to pass.
 ## Installation
-1. Copy `data` mod`s folder in your GTA Vice City folder.
+1. Copy `data` mod`s folder and "Limit Adjuster's" files in your GTA Vice City folder.
 2. Copy and paste rows from `gta_vc.dat` in your `%your_gta_vice_city_folder%/data/gta_vc.dat`.
 ## Current availability
 **[2024.05.26]** Version 0.4alpha released.
