@@ -6,6 +6,9 @@
 # ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended start IDE ~~~~~~~~~~~~~~~~~~~~
 
 IDE DATA\MAPS\2dfxextended_havana\2dfxextended_havana.IDE
+IDE DATA\MAPS\2dfxextended_starfish\2dfxextended_starfish.IDE
+IDE DATA\MAPS\2dfxextended_downtown\2dfxextended_downtown.IDE
+IDE DATA\MAPS\2dfxextended_northbeach\2dfxextended_northbeach.IDE
 
 # ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended end IDE ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -21,5 +24,9 @@ IPL DATA\MAPS\2dfxextended_havana\2dfxextended_havana.IPL
 IPL DATA\MAPS\2dfxextended_docks\2dfxextended_docks.IPL
 IPL DATA\MAPS\2dfxextended_airport\2dfxextended_airport.IPL
 IPL DATA\MAPS\2dfxextended_starfish\2dfxextended_starfish.IPL
+IPL DATA\MAPS\2dfxextended_haiti\2dfxextended_haiti.IPL
+IPL DATA\MAPS\2dfxextended_downtown\2dfxextended_downtown.IPL
+IPL DATA\MAPS\2dfxextended_oceandrive\2dfxextended_oceandrive.IPL
+#IPL DATA\MAPS\2dfxextended_northbeach\2dfxextended_northbeach.IPL
 
 # ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended end IPL ~~~~~~~~~~~~~~~~~~~~
