@@ -27,6 +27,6 @@ IPL DATA\MAPS\2dfxextended_starfish\2dfxextended_starfish.IPL
 IPL DATA\MAPS\2dfxextended_haiti\2dfxextended_haiti.IPL
 IPL DATA\MAPS\2dfxextended_downtown\2dfxextended_downtown.IPL
 IPL DATA\MAPS\2dfxextended_oceandrive\2dfxextended_oceandrive.IPL
-#IPL DATA\MAPS\2dfxextended_northbeach\2dfxextended_northbeach.IPL
+IPL DATA\MAPS\2dfxextended_northbeach\2dfxextended_northbeach.IPL
 
 # ~~~~~~~~~~~~~~~~~~~~ Project 2dfx Extended end IPL ~~~~~~~~~~~~~~~~~~~~
