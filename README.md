@@ -11,7 +11,10 @@ The modification is also compatible with the game's storyline. New objects on th
 ## Installation
 1. Copy `data` mod`s folder and "Limit Adjuster's" files in your GTA Vice City folder.
 2. Copy and paste rows from `gta_vc.dat` in your `%your_gta_vice_city_folder%/data/gta_vc.dat`.
+3. (If you installed original "Project 2dfx") Copy and paste rows from `VCLodLights.dat` in your `%your_gta_vice_city_folder%/VCLodLights.dat`.
 ## Current availability
+**[2024.06.16]** Version 0.8alpha released.
+
 **[2024.05.26]** Version 0.4alpha released.
 
 **[2024.05.22]** Two areas of the map are ready (docks and Haiti). The test version will be available soon.
